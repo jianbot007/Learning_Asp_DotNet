@@ -6,3 +6,18 @@
 
 <h2>Projects</h2>
 
+<table class="table table-bordered">
+    <tr>
+        <th>Title</th>
+        <th>Course</th>
+        <th>Description</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Course</td>
+            <td>@item.Description</td>
+        </tr>
+    }
+</table>
