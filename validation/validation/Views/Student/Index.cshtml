@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h3>@Model.Name</h3>
+
+
+<h2>Fill in Your Details</h2>
+<form method="post">
+    <label for="name">Name:</label>
+    <input type="text"  name="Name" value='@Model.Name' /><br><br>
+    <p class="text-danger">@Html.ValidationMessage("Name")</p>
+
+    <label for="id">ID:</label>
+    <input type="text" id="id" name='Id' value='@Model.Id'><br><br>
+    <p class="text-danger">@Html.ValidationMessage("Id")</p>
+
+    <label for="dob">Date of Birth:</label>
+    <input type="date" name="Dob"><br><br>
+    <p class="text-danger">@Html.ValidationMessage("Dob")</p>
+
+    <label for="email">Email:</label>
+    <input type="email" name="Email"><br><br>
+    <p class="text-danger">@Html.ValidationMessage("Email")</p>
+
+    <input type="submit" value="Submit">
+</form>
+
