@@ -22,10 +22,8 @@ namespace validation.Attribute
             }
             else
             {
-                return new ValidationResult("Sucess");
-            }
-
                 return ValidationResult.Success;
+            }
         }
     }
 

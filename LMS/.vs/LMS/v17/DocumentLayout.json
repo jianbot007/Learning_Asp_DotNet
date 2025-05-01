@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advanced_webtech\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|d:\\advanced_webtech\\lms\\lms\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|solutionrelative:lms\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|d:\\advanced_webtech\\lms\\lms\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|solutionrelative:lms\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|d:\\advanced_webtech\\lms\\lms\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|solutionrelative:lms\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|d:\\advanced_webtech\\lms\\lms\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{AE3889A8-7B28-4F41-ACD1-A6C836E76A1E}|LMS\\LMS.csproj|solutionrelative:lms\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Advanced_webtech\\LMS\\LMS\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Advanced_webtech\\LMS\\LMS\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "LMS\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T20:26:29.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\Advanced_webtech\\LMS\\LMS\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "LMS\\DTO\\BookDTO.cs",
+              "ToolTip": "D:\\Advanced_webtech\\LMS\\LMS\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "LMS\\DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:09:27.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Advanced_webtech\\LMS\\LMS\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "LMS\\EF\\Model1.edmx",
+              "ToolTip": "D:\\Advanced_webtech\\LMS\\LMS\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "LMS\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-01T20:07:33.611Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Advanced_webtech\\LMS\\LMS\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Advanced_webtech\\LMS\\LMS\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:05:01.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

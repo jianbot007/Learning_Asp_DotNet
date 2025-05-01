@@ -12,7 +12,7 @@ public class MinAgeAttribute : ValidationAttribute
 
             if (age >= 18)
             {
-                return new ValidationResult("success");
+                return ValidationResult.Success;
             }
             else
             {

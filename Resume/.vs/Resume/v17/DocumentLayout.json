@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\Learning Code\\Advanced_dot net\\Resume\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|d:\\learning code\\advanced_dot net\\resume\\resume\\views\\profile\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\views\\profile\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\views\\profile\\ref.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\views\\profile\\ref.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|d:\\learning code\\advanced_dot net\\resume\\resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\views\\profile\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\views\\profile\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\views\\profile\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\views\\profile\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\views\\profile\\ref.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\views\\profile\\ref.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|D:\\Learning Code\\Advanced_dot net\\Resume\\resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F290A5B4-CD3D-4753-92E3-C1DBBC26593A}|Resume\\Resume.csproj|solutionrelative:resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +42,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Ref.cshtml",
               "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Profile\\Ref.cshtml",
               "RelativeDocumentMoniker": "Resume\\Views\\Profile\\Ref.cshtml",
               "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Profile\\Ref.cshtml",
               "RelativeToolTip": "Resume\\Views\\Profile\\Ref.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-10T05:25:07.184Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Profile\\Index.cshtml",
               "RelativeDocumentMoniker": "Resume\\Views\\Profile\\Index.cshtml",
@@ -71,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Resume\\App_Start\\RouteConfig.cs",
@@ -83,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Projects.cshtml",
               "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Profile\\Projects.cshtml",
               "RelativeDocumentMoniker": "Resume\\Views\\Profile\\Projects.cshtml",
@@ -95,28 +96,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Education.cshtml",
               "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Profile\\Education.cshtml",
               "RelativeDocumentMoniker": "Resume\\Views\\Profile\\Education.cshtml",
               "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Profile\\Education.cshtml",
               "RelativeToolTip": "Resume\\Views\\Profile\\Education.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-10T05:24:35.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Resume\\Controllers\\ProfileController.cs",
               "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "Resume\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T05:18:19.121Z"
+              "WhenOpened": "2025-03-10T05:18:19.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,21 +128,23 @@
               "RelativeDocumentMoniker": "Resume\\Models\\Education.cs",
               "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Models\\Education.cs",
               "RelativeToolTip": "Resume\\Models\\Education.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:02:03.595Z"
+              "WhenOpened": "2025-03-10T19:02:03.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Resume\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Resume\\Resume\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Resume\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T05:34:30.243Z"
+              "WhenOpened": "2025-03-10T05:34:30.243Z",
+              "EditorCaption": ""
             }
           ]
         }

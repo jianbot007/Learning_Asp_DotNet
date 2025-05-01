@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #3498db;
+            color: white;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .btn {
+            padding: 6px 12px;
+            background-color: #2ecc71;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+            .btn:hover {
+                background-color: #27ae60;
+            }
+    </style>
+</head>
+<body>
+    @if (TempData["Msg"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Msg"]
+        </div>
+    }
+    @if (TempData["Failed"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["Failed"]
+        </div>
+    }
+
+    <h2>Book List</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Book Title</th>
+                <th>Author Name</th>
+                <th>Quantity</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.BookName</td>
+                    <td>@book.Author</td>
+                    <td>@book.Qty</td>
+                    <td><a href="/Book/Select/@book.Bookid" class="btn">Select</a></td>
+
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+
+
+</body>
+</html>

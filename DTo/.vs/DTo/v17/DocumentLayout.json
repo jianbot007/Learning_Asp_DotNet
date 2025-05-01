@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advanced_webtech\\DTo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|d:\\advanced_webtech\\dto\\dto\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|solutionrelative:dto\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|d:\\advanced_webtech\\dto\\dto\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|solutionrelative:dto\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|D:\\Advanced_webtech\\DTo\\dto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|solutionrelative:dto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|d:\\advanced_webtech\\dto\\dto\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C6011A89-5135-4DF5-B1FA-9B5CA4175EBD}|DTo\\DTo.csproj|solutionrelative:dto\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "D:\\Advanced_webtech\\DTo\\DTo\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "DTo\\EF\\Model1.Context.cs",
+              "ToolTip": "D:\\Advanced_webtech\\DTo\\DTo\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "DTo\\EF\\Model1.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:05:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "D:\\Advanced_webtech\\DTo\\DTo\\EF\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "DTo\\EF\\Model1.Context.tt",
+              "ToolTip": "D:\\Advanced_webtech\\DTo\\DTo\\EF\\Model1.Context.tt",
+              "RelativeToolTip": "DTo\\EF\\Model1.Context.tt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-01T05:05:40.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Advanced_webtech\\DTo\\DTo\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "DTo\\EF\\Model1.edmx",
+              "ToolTip": "D:\\Advanced_webtech\\DTo\\DTo\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DTo\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-01T05:00:52.128Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Advanced_webtech\\DTo\\DTo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DTo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Advanced_webtech\\DTo\\DTo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DTo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:52:06.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

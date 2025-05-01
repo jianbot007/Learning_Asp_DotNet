@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibaryManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Bookid" />
+    </Key>
+    <Property Name="Bookid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Author" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="BookName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CatogoryID" Type="int" Nullable="false" />
+    <Property Name="Qty" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Cid" />
+    </Key>
+    <Property Name="Cid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'LibaryManagement.dbo.Member' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Member">
+    <Key>
+      <PropertyRef Name="MemberID" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="MemberID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="LibaryManagementModelStoreContainer">
+    <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Member" EntityType="Self.Member" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Member].[MemberID] AS [MemberID], 
+[Member].[Name] AS [Name], 
+[Member].[Email] AS [Email]
+FROM [dbo].[Member] AS [Member]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
